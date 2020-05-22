@@ -1,0 +1,15 @@
+https://react-bootstrap.github.io/components/button-group/
+vytvor zoznam buttonov v ktorych bude text od 1 po 4
+po kliknuti jedneho z buttonov zober text z butonu a zobraz ho do h1 elementu pod nimi
+
+na tvorbu buttonov použi baliček 'react-bootstrap' a vytiahni z neho {Button}
+
+v onClick funkcii vytiahni text z elementu pomocou event hodnoty (e) => console.log(e)
+a tu hodnotu nastav a zobraz do H1 elementu 
+
+
+z repositara create-react-app-example skopiruj componentu Badage z priecinka BadgeS
+nezabudni na export v globalnom exporte components
+
+druha - accordion z bootstrapu
+
